@@ -1,16 +1,48 @@
-<h1 align="center">سلام! من ابوالفضل هستم 👋</h1>
+<h1 align="center">سلام! من Phuong Van هستم 👋</h1>
 
-🎓 دانشجوی الکترونیک  
-⚡ علاقه‌مند به میکروکنترلرها، STM32 و پروژه‌های IoT  
-🌱 در حال توسعه کتابخانه‌های شخصی برای AVR و STM32  
-📫 با من در تماس باش: [Instagram](https://instagram.com/your_username)
+<p align="center">
+  🎓 دانشجوی رشته الکترونیک <br>
+  🛠 علاقه‌مند به سیستم‌های نهفته، STM32 و AVR <br>
+  🌱 در حال یادگیری عمیق STM32F103 و ساخت کتابخانه‌های شخصی <br>
+</p>
 
 ---
 
-### 🛠 مهارت‌ها
+## 🧰 مهارت‌ها
 
-- 🔌 Embedded C
-- 🛠 AVR | STM32 | ESP8266
-- 🖥 PlatformIO | CubeIDE
-- 📡 UART, I2C, SPI
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AVR-FF9900?style=for-the-badge&logo=Microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlatformIO-ff6600?style=for-the-badge&logo=PlatformIO&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proteus-0078D7?style=for-the-badge&logo=proteus&logoColor=white"/>
+</div>
 
+---
+
+## 📌 پروژه‌های مهم
+
+- 🔹 [کنترل PWM با STM32](https://github.com/IR-Quadro/stm32f103-pwm)
+- 🔹 [سرور ساده ESP8266 برای کنترل رله](https://github.com/IR-Quadro/esp8266-relay-server)
+- 🔹 [پروژه محاسبه سرعت با هال سنسور و تایمر](https://github.com/IR-Quadro/hall-sensor-speed-meter)
+
+---
+
+## 📈 آمار فعالیت من
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IR-Quadro&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IR-Quadro&layout=compact&theme=tokyonight" width="48%"/>
+</div>
+
+---
+
+## 📫 راه‌های ارتباطی
+
+- اینستاگرام: [@your_instagram](https://instagram.com/your_instagram)
+- یوتیوب: [@your_channel](https://youtube.com/@your_channel)
+- ایمیل: your.email@example.com
+
+---
+
+> «من باور دارم یادگیری عمیق با تمرین و مستندسازی منظم، باعث رشد واقعی در دنیای الکترونیک می‌شه.»
