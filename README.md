@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/PlatformIO-ff6600?style=for-the-badge&logo=PlatformIO&logoColor=white"/>
   <img src="https://img.shields.io/badge/Proteus-0078D7?style=for-the-badge&logo=proteus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logoColor=white"/>
 </div>
 
 ---
