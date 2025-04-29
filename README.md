@@ -30,9 +30,8 @@
 
 ## 📫 اگه خواستی بهم چیزی بگی❤️
 
-<a href="[https://t.me/your_username](https://t.me/IR_Quadro)" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+- 📬 Telegram: [@your_username]([https://t.me/your_username](https://t.me/IR_Quadro))
+
 
 
 ---
