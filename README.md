@@ -30,7 +30,7 @@
 
 ## 📫 اگه خواستی بهم چیزی بگی❤️
 
-- 📬 Telegram: [@IR_Quadro]]([https://t.me/IR_Quadro](https://t.me/IR_Quadro))
+- 📬 Telegram: [@IR_Quadro](https://t.me/IR_Quadro)
 
 
 
