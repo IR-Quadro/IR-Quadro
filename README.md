@@ -31,6 +31,9 @@ It includes components like a Power Supply Unit (PSU) for multiple voltage level
 Communication occurs through protocols like UART.
 This project provides practical insights into embedded systems, covering GSM module integration, power supply management, microcontroller interfacing, remote control mechanisms, and sensor data processing. This project serves as an excellent platform for learning and experimenting with embedded systems, offering practical insights into real-world applications.
 
+<img src="https://postimg.cc/75pD7Tpn" alt="rotated image" style="transform: rotate(90deg); width: 300px;" />
+
+
 [![RCS2.png](https://i.postimg.cc/ry7qh67B/RCS2.png)](https://postimg.cc/Yjfc9PrR)
 
 ---
