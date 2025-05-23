@@ -8,11 +8,8 @@
 
 دانشجوی رشته الکترونیک هستم و به کار با میکروکنترلرهایی مثل STM32 ,AVR و ESP علاقه دارم. سعی می‌کنم با تمرین و یادگیری مداوم، توی مسیر رشد در زمینه سیستم‌های نهفته قدم بردارم.
 
-## هدف فعلی ما:
-[![RCS2.png](https://i.postimg.cc/ry7qh67B/RCS2.png)](https://postimg.cc/Yjfc9PrR)
 
 ---
-
 ## 🛠 مهارت‌های فنی
 
 ### 💻 برنامه‌نویسی & پلتفرم‌ها
@@ -25,6 +22,20 @@
 ### 🎛 طراحی سخت‌افزار
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat)
 ![PCB Design](https://img.shields.io/badge/-PCB%20Design-10AAEB?style=flat)
+
+---
+## پروژه در حال توسعه: RCS_AVR
+<div style="display: flex; align-items: center;">
+  <img src="https://i.postimg.cc/ry7qh67B/RCS2.png" alt="project image" width="300" style="margin-right: 20px; border-radius: 8px;" />
+  <p>
+    <strong>RCS_AVR</strong> The RCS_AVR project is an interactive, hands-on initiative focused on remote relay control via SMS.
+It includes components like a Power Supply Unit (PSU) for multiple voltage levels, a GSM Module for SMS command processing, an AVR Microcontroller (ATMEGA328) for control logic, and various inputs and outputs for seamless interaction.
+Communication occurs through protocols like UART.
+This project provides practical insights into embedded systems, covering GSM module integration, power supply management, microcontroller interfacing, remote control mechanisms, and sensor data processing. This project serves as an excellent platform for learning and experimenting with embedded systems, offering practical insights into real-world applications.
+  </p>
+</div>
+
+[![RCS2.png](https://i.postimg.cc/ry7qh67B/RCS2.png)](https://postimg.cc/Yjfc9PrR)
 
 ---
 
