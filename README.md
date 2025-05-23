@@ -28,7 +28,8 @@
 ## 🚀 پروژه‌های برجسته
 
 ### 📚 کتابخانه‌ها
-- [74HC595 AVR Library](https://github.com/IR-Quadro/74HC595-AVR-Library) - کتابخانه جامع برای کار با شیفت رجیستر 595
+- [74HC595 AVR Library](https://github.com/IR-Quadro/74HC595-AVR-Library) 
+- [ESP8266 SPIFFS Authentication](https://github.com/IR-Quadro/ESP8266-Final-PRJ) 
 
 *(پروژه‌های بیشتر به زودی...)*
 
