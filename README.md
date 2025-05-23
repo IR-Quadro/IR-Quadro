@@ -30,7 +30,7 @@ RCS_AVR is a practical project for controlling a relay remotely using SMS.
 It uses an ATmega328 microcontroller, a GSM module, and a power supply that provides multiple voltage levels.
 Commands are sent via SMS, and the system communicates using the UART protocol.
 This project is a great way to learn about embedded systems, including microcontroller programming, GSM communication, and hardware interfacing.
--[RCS_AVR Repository](https://github.com/aKaReZa75/RCS_AVR)
+[RCS_AVR Repository](https://github.com/aKaReZa75/RCS_AVR)
 
 <img src="https://i.postimg.cc/BvvvrTpk/RCS.png" alt="rotated image" style="transform: rotate(90deg); width: 400px; height: auto;" />
 
