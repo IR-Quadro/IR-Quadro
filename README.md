@@ -27,7 +27,7 @@
 ## پروژه در حال توسعه: RCS_AVR
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 80%; vertical-align: top;">
       <img src="https://i.postimg.cc/ry7qh67B/RCS2.png" alt="project image" style="width: 100%; border-radius: 8px;" />
     </td>
     <td style="width: 50%; padding-left: 20px; vertical-align: top;">
