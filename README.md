@@ -1,6 +1,6 @@
 # ابوالفضل رسالتی فر 🙂
 
-**دانشجوی الکترونیک | علاقه‌مند به سیستم‌های نهفته و میکروکنترلرها**
+**دانشجوی الکترونیک - برق قدرت| علاقه‌مند به سیستم‌های نهفته و میکروکنترلرها**
 
 ---
 
@@ -24,26 +24,12 @@
 ![PCB Design](https://img.shields.io/badge/-PCB%20Design-10AAEB?style=flat)
 
 ---
-## پروژه در حال توسعه: RCS_AVR
-
-RCS_AVR is a practical project for controlling a relay remotely using SMS.
-It uses an ATmega328 microcontroller, a GSM module, and a power supply that provides multiple voltage levels.
-Commands are sent via SMS, and the system communicates using the UART protocol.
-This project is a great way to learn about embedded systems, including microcontroller programming, GSM communication, and hardware interfacing.
-[RCS_AVR Repository](https://github.com/aKaReZa75/RCS_AVR)
-
-<img src="https://i.postimg.cc/BvvvrTpk/RCS.png" alt="rotated image" style="transform: rotate(90deg); width: 400px; height: auto;" />
-
-
----
 
 ## 🚀 پروژه‌های برجسته
 
 ### 📚 کتابخانه‌ها
 - [74HC595 AVR Library](https://github.com/IR-Quadro/74HC595-AVR-Library) 
 - [ESP8266 SPIFFS Authentication](https://github.com/IR-Quadro/ESP8266-Final-PRJ) 
-
-*(پروژه‌های بیشتر به زودی...)*
 
 ---
 
