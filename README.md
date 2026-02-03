@@ -1,43 +1,65 @@
-# ابوالفضل رسالتی فر 🙂
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFpZmw5bWNmbjQ4MXB3OWE5aTZyeWZxOWZqdGhiZTgxdTlzcDdieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
-**دانشجوی الکترونیک - برق قدرت | علاقه‌مند به سیستم‌های نهفته و میکروکنترلرها**
+<h1 align="center">Hi 👋, I'm Abolfazl</h1>
+<h3 align="center">Embedded Systems & Electronics Engineer</h3>
 
----
+<br>
 
-## 📌 درباره من
+<img align="right" alt="Embedded Coding" width="320"
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjajAwejk5NnB0MXZkM28wMTllbTB4dnRvMGJiY25wa2piYjM3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif">
 
-دانشجوی رشته الکترونیک بودم و الان برق قدرت هستم😂😁، به کار با میکروکنترلرهایی مثل STM32 ,AVR و ESP علاقه دارم. سعی می‌کنم با تمرین و یادگیری مداوم، توی مسیر رشد در زمینه سیستم‌های نهفته قدم بردارم.
+- 🔧 **Embedded Developer**
+- 🌱 Currently learning **Python** (for tooling & automation)
+- 💬 Ask me about **Embedded C & Microcontrollers**
+- 📫 Reach me at **Abolfazl.ResalatiFar@gmail.com**
+
+<br clear="both">
 
 
----
-## 🛠 مهارت‌های فنی
+## 💻 Tech Stack
 
-### 💻 برنامه‌نویسی & پلتفرم‌ها
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/-PlatformIO-ff6600?style=flat&logo=PlatformIO&logoColor=white)
-![ESP](https://img.shields.io/badge/-ESP8266%2FESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![AVR](https://img.shields.io/badge/-AVR-FF9900?style=flat&logo=Microchip&logoColor=white)
+### 🧠 Embedded & Firmware
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-0A192F?style=for-the-badge)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
-### 🎛 طراحی سخت‌افزار
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat)
-![PCB Design](https://img.shields.io/badge/-PCB%20Design-10AAEB?style=flat)
-
----
-
-## 🚀 پروژه‌های برجسته
-
-### 📚 کتابخانه‌ها
-- [74HC595 AVR Library](https://github.com/IR-Quadro/74HC595-AVR-Library) 
-- [ESP8266 SPIFFS Authentication](https://github.com/IR-Quadro/ESP8266-Final-PRJ) 
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-00427E?style=for-the-badge)
 
 ---
 
-## 📮 راه‌های ارتباطی
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IR_Quadro)
-
+### ⚙️ Tools & IDEs
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge)
+![Keil](https://img.shields.io/badge/Keil-%230071C5?style=for-the-badge)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-> **نگرش ما**: «یادگیری زمانی ماندگار می‌شود که آن‌ را با دستانت بسازی و با کلماتت ثبت کنی.»
+### 🧩 Hardware & Design
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B4?style=for-the-badge)
+
+---
+
+### 📦 Version Control & Docs
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+
+<br><br>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
