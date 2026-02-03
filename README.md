@@ -6,12 +6,12 @@
 <br>
 
 <img align="right" alt="Embedded Coding" width="320"
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjajAwejk5NnB0MXZkM28wMTllbTB4dnRvMGJiY25wa2piYjM3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif">
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Rybm45eHh1NXNmbm14YzM0cndqZWo1MGdsejIwMXJmcXU4bW9pdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif">
 
 
 - 🔧 **Embedded Developer**
 
-- 🌱 Currently learning **Python** (for tooling & automation)
+- 🌱 Currently learning **Python**
 
 - 💬 Ask me about **Embedded C & Microcontrollers**
 
