@@ -32,7 +32,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjajAwejk5NnB0MXZkM28wM
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-00427E?style=for-the-badge)
 
----
+<br><br>
 
 ### ⚙️ Tools & IDEs
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge)
@@ -41,13 +41,13 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjajAwejk5NnB0MXZkM28wM
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<br><br>
 
 ### 🧩 Hardware & Design
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-1C79B4?style=for-the-badge)
 
----
+<br><br>
 
 ### 📦 Version Control & Docs
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
