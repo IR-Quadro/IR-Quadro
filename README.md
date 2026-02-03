@@ -8,9 +8,13 @@
 <img align="right" alt="Embedded Coding" width="320"
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjajAwejk5NnB0MXZkM28wMTllbTB4dnRvMGJiY25wa2piYjM3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif">
 
+
 - 🔧 **Embedded Developer**
+
 - 🌱 Currently learning **Python** (for tooling & automation)
+
 - 💬 Ask me about **Embedded C & Microcontrollers**
+
 - 📫 Reach me at **Abolfazl.ResalatiFar@gmail.com**
 
 <br clear="both">
