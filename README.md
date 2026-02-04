@@ -38,17 +38,17 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF5ODVjamd0eDU4MGV3Y3Z0Y
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
----
 <br>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IR-Quadro/IR-Quadro/main/assets/PixelArt.jpg"
        alt="Humans saw this and decided to invent C++"
        style="max-width: 600px; width: 100%;">
-  <br><br>
-  <strong style="font-size: 1.45em;">Humans saw this and decided to invent C++ 😭💀</strong>
+  <br>
+  <strong><em style="font-size: 1.4em;">Humans saw this and decided to invent C++ 😭💀</em></strong>
 </p>
-<br>
 
 <br>
 
