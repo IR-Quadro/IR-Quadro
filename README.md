@@ -42,8 +42,6 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF5ODVjamd0eDU4MGV3Y3Z0Y
 
 ---
  ### Humans saw this and decided to invent C++ 😭💀:
- 
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IR-Quadro/IR-Quadro/main/assets/PixelArt.jpg"
