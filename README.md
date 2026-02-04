@@ -46,8 +46,10 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF5ODVjamd0eDU4MGV3Y3Z0Y
   <img src="https://raw.githubusercontent.com/IR-Quadro/IR-Quadro/main/assets/PixelArt.jpg"
        alt="Humans saw this and decided to invent C++"
        style="max-width: 600px; width: 100%;">
-  <br>
-  <strong><em style="font-size: 1.4em;">Humans saw this and decided to invent C++ 😭💀</em></strong>
+  <br><br>
+  <span style="font-size: 2em; font-weight: bold; color: #e06c75;">
+    Humans saw this and decided to invent C++ 😭💀
+  </span>
 </p>
 
 <br>
